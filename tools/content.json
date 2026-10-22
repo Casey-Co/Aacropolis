@@ -1,0 +1,3520 @@
+{
+  "items__this-is-a-title-01": {
+    "title": "This is a Title 01 | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-mut5haqa2",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "This is a Title 01"
+          }
+        ],
+        "text": "This is a Title 01"
+      },
+      {
+        "id": "comp-mut5haqb1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+      },
+      {
+        "id": "comp-mut5haqg1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/fc7570_ae9913d461894a7ebb7fc420d828ab83~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "< Back",
+        "href": "https://www.aacropolishomes.com/items"
+      }
+    ]
+  },
+  "popup-u505g": {
+    "title": "404 | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-iuqkrar1",
+        "paragraphs": [
+          {
+            "tag": "h4",
+            "text": "There’s Nothing Here..."
+          }
+        ],
+        "text": "There’s Nothing Here..."
+      },
+      {
+        "id": "comp-iuqksom1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "We can’t find the page you’re looking for. Check the URL, or head back home."
+          }
+        ],
+        "text": "We can’t find the page you’re looking for. Check the URL, or head back home."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/035244_516142e5fd21466aaf92b39e0883e66f~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "Go Home",
+        "href": "https://www.aacropolishomes.com"
+      }
+    ]
+  },
+  "copy-of-home-1": {
+    "title": "Custom Home Builder | Aacropolis Homes | Edmonton | Aacropolishomes.com",
+    "blocks": [
+      {
+        "id": "comp-mp6895521",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "WELCOME"
+          }
+        ],
+        "text": "WELCOME"
+      },
+      {
+        "id": "comp-mp689558",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Interested in the lot you see? Let's talk."
+          }
+        ],
+        "text": "Interested in the lot you see? Let's talk."
+      }
+    ],
+    "images": [],
+    "links": [
+      {
+        "text": "Call Us",
+        "href": "tel:(825) 510-2298"
+      },
+      {
+        "text": "Visit Us",
+        "href": "https://maps.app.goo.gl/Y2CTzXy8F17ZEzSH6"
+      }
+    ]
+  },
+  "intake-form": {
+    "title": "Booking Show Home Tour | Aacropolishomes",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/11062b_8eb3e1d795c547e88656bc37a68a0b47~mv2.webp",
+        "alt": "Modern Kitchen Interior"
+      }
+    ],
+    "links": []
+  },
+  "fullscreen-page": {
+    "title": "Fullscreen Page | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "post__follow-along-our-dream-home-build-infill-edition": {
+    "title": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #1) Finding The Right Lot",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_f1e26d25b8cc4f6c8039887eca2b142e~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "#1",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/1"
+      },
+      {
+        "text": "#2",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/2"
+      },
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal entry #1: Finding the right lot and what’s next."
+      },
+      {
+        "tag": "p",
+        "text": "Many people don’t know where to start in the often confusing process of building an infill."
+      },
+      {
+        "tag": "p",
+        "text": "They know the aura of being in a mature neighbourhood feels right, but how do you go from knowing where you want to live to moving into the dream home you desire? We know when driving around sought-after mature neighbourhoods, there are big, beautiful mature lots with outdated and small homes where a renovation is just not possible. How do you go from that lot to building your dream home?"
+      },
+      {
+        "tag": "p",
+        "text": "This is where an experienced custom builder comes in. When trying to decide on the right property to purchase for your infill home, we can look at all the zoning restrictions for that property. Understanding the city guidelines isn’t always easy. This is especially true with a major overhaul to the zoning bylaws coming into effect January 1, 2024. We will decipher and assess the site coverage and setback requirements, slopes, exposures and what type of garage is allowed to help you visualize what type of home will work on the property. If you don’t already have a home site in mind, we will enlist our experienced realtor partner for your search. Enlisting the pro’s means you are in great hands!"
+      },
+      {
+        "tag": "p",
+        "text": "With our experience, we can take a look at the existing home and give you an idea of what the removal of that home entails. Whether it’s a full demo and site cleanup, or the potential of “reusing” that home and utilizing a moving company to assist with finding another property for a family to love, we will guide you through the processes and budgeting required."
+      },
+      {
+        "tag": "p",
+        "text": "Then we take our clients through the really fun part…the creative process. As we get to know our clients, we will get an understanding of how they live, what spaces in the home are the most important and how the property can highlight these areas. At this time we will also start to discuss architecture and different interior styles. If you love a quiet coffee in the morning in your kitchen, maybe an east facing window is what works best for you. Perhaps there are beautiful trees in front of the property and it makes the most sense for the primary suite to overlook those views. All these factors are considered as we work with you and our design team on your dream home, but we will get into that more in our next journal entry coming soon (Journal entry #2: Designing the perfect layout)."
+      },
+      {
+        "tag": "p",
+        "text": "Putting your trust in a builder that understands all that goes into the infill process is critical. Aacropolis Homes has expertise in guiding our clients from start to finish, making their infill dreams come true!"
+      },
+      {
+        "tag": "p",
+        "text": "If you are unsure where to start, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Nov 22, 2023",
+    "cover": "assets/images/4c621c_f1e26d25b8cc4f6c8039887eca2b142e~mv2.webp"
+  },
+  "items__this-is-a-title-03": {
+    "title": "This is a Title 03 | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-mut5haqa2",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "This is a Title 03"
+          }
+        ],
+        "text": "This is a Title 03"
+      },
+      {
+        "id": "comp-mut5haqb1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+      },
+      {
+        "id": "comp-mut5haqg1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/fc7570_ae9913d461894a7ebb7fc420d828ab83~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "< Back",
+        "href": "https://www.aacropolishomes.com/items"
+      }
+    ]
+  },
+  "process": {
+    "title": "Aacropolis Homes Process | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-jl8dpqnt",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "THE PROCESS"
+          }
+        ],
+        "text": "THE PROCESS"
+      },
+      {
+        "id": "comp-jl8dpqny",
+        "paragraphs": [
+          {
+            "tag": "li",
+            "text": "Assist in finding the appropriate lot from our own inventory or elsewhere"
+          },
+          {
+            "tag": "li",
+            "text": "Approximate budget, construction timeline, possible costs that may arise and deposit structure will be discussed"
+          },
+          {
+            "tag": "li",
+            "text": "Budget pricing will be provided based on the level of specifications desired, approx size and features desired to gain a clear understanding of what the client is looking for"
+          },
+          {
+            "tag": "li",
+            "text": "Get a clear understanding of what to expect throughout the entire process."
+          },
+          {
+            "tag": "li",
+            "text": "Upon budget & timeline approval, design deposit required"
+          },
+          {
+            "tag": "li",
+            "text": "Coordinate a series of meeting with Builder to start the design. Depending on complexity of custom plans, this could take approx 3 months"
+          },
+          {
+            "tag": "li",
+            "text": "Client and Builder to review the specifications, and identify any major changes desired they would like incorporated into the original agreement. This will allow for the pricing to be comprehensive and cover all of the elements that the client desires into the original purchase contract."
+          },
+          {
+            "tag": "li",
+            "text": "Client still can make modifications to the actual product(i.e. cabinets, lighting, flooring, railing, colours, etc) going into their home when they visit trade partners."
+          },
+          {
+            "tag": "li",
+            "text": "Upon approval of pricing client and builder will enter into an ANHWP Purchase Contract"
+          }
+        ],
+        "text": "STEP 1 LOT SELECTION Assist in finding the appropriate lot from our own inventory or elsewhere STEP 2 INITIAL PROJECT ASSESSMENT Approximate budget, construction timeline, possible costs that may arise and deposit structure will be discussed Budget pricing will be provided based on the level of specifications desired, approx size and features desired to gain a clear understanding of what the client is looking for Get a clear understanding of what to expect throughout the entire process. STEP 3 DESIGN PROCESS Upon budget & timeline approval, design deposit required Coordinate a series of meeting with Builder to start the design. Depending on complexity of custom plans, this could take approx 3 months STEP 4 SPECIFICATION REVIEW Client and Builder to review the specifications, and identify any major changes desired they would like incorporated into the original agreement. This will allow for the pricing to be comprehensive and cover all of the elements that the client desires into the original purchase contract. Client still can make modifications to the actual product(i.e. cabinets, lighting, flooring, railing, colours, etc) going into their home when they visit trade partners. STEP 5 ENTER INTO ANHWP CONTRACT Upon approval of pricing client and builder will enter into an ANHWP Purchase Contract"
+      },
+      {
+        "id": "comp-jlqr8b82",
+        "paragraphs": [
+          {
+            "tag": "li",
+            "text": "Client and Builder to choose all of the elements required for Architectural Approval"
+          },
+          {
+            "tag": "li",
+            "text": "Submit for approval to the developer"
+          },
+          {
+            "tag": "li",
+            "text": "Upon Architectural Controls approval, plans will be submitted for a building permit and surveys,"
+          },
+          {
+            "tag": "li",
+            "text": "Construction will start."
+          },
+          {
+            "tag": "li",
+            "text": "Client will meet with various trade partners to complete their final interior selections during first months"
+          },
+          {
+            "tag": "li",
+            "text": "Builder to facilitate process and provide guidance and assistance, as well coordinate walkthroughs of the home at various stages."
+          },
+          {
+            "tag": "li",
+            "text": "Approx 35 days before home is complete, client will be provided with a Possession Letter confirming the actual date for taking possession."
+          },
+          {
+            "tag": "li",
+            "text": "Pre-possession walkthrough of the home approximately 1 week before possession."
+          },
+          {
+            "tag": "li",
+            "text": "Builder to rectify any minor items that may need to be corrected."
+          },
+          {
+            "tag": "li",
+            "text": "Client will be provided orientation of various components of their home such as plumbing systems, HVAC systems, alarm systems, home automation systems, etc."
+          },
+          {
+            "tag": "li",
+            "text": "2 walkthroughs during the first year post possession to insure everything is fine"
+          },
+          {
+            "tag": "li",
+            "text": "Make any minor adjustments as required"
+          },
+          {
+            "tag": "li",
+            "text": "Answer any questions a client may have on their home."
+          },
+          {
+            "tag": "li",
+            "text": "2,5,10 warranty coverage through the ANHWP"
+          }
+        ],
+        "text": "STEP 6 SUBMISSION OF ARCHITECTURAL CONTROL Client and Builder to choose all of the elements required for Architectural Approval Submit for approval to the developer STEP 7 APPLY FOR BUILDING PERMIT & START CONSTRUCTION Upon Architectural Controls approval, plans will be submitted for a building permit and surveys, Construction will start. Client will meet with various trade partners to complete their final interior selections during first months Builder to facilitate process and provide guidance and assistance, as well coordinate walkthroughs of the home at various stages. STEP 8 NOTICE OF POSSESSION,PRE-OCCUPANCY WALKTHROUGH, AND WALKTHROUGH Approx 35 days before home is complete, client will be provided with a Possession Letter confirming the actual date for taking possession. Pre-possession walkthrough of the home approximately 1 week before possession. Builder to rectify any minor items that may need to be corrected. Client will be provided orientation of various components of their home such as plumbing systems, HVAC systems, alarm systems, home automation systems, etc. STEP 9 FIRST YEAR, 6 MONTH & 12 MONTH POST POSSESSIONS WARRANTY WALKTHROUGH 2 walkthroughs during the first year post possession to insure everything is fine Make any minor adjustments as required Answer any questions a client may have on their home. 2,5,10 warranty coverage through the ANHWP"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/e24b3a5346014b9691dcd95da6c58f94.webp",
+        "alt": "plans"
+      },
+      {
+        "src": "assets/images/4ccb133588f0013931b70fc841d5002f.webp",
+        "alt": "Hammering"
+      }
+    ],
+    "links": []
+  },
+  "my-bookings": {
+    "title": "Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "blog__categories__getting-started": {
+    "title": "Getting Started",
+    "blocks": [
+      {
+        "id": "comp-muvtltwe",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Learn & Discover"
+          }
+        ],
+        "text": "Learn & Discover"
+      },
+      {
+        "id": "comp-muvv4m22",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Expert guides for every step of the journey"
+          }
+        ],
+        "text": "Expert guides for every step of the journey"
+      },
+      {
+        "id": "comp-muvtjlnm",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Explore expert advice for every project from vision to completion."
+          }
+        ],
+        "text": "Explore expert advice for every project from vision to completion."
+      },
+      {
+        "id": "comp-muvu46er",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Browse our blogs"
+          }
+        ],
+        "text": "Browse our blogs"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/11062b_474ac7080f9e495ead3138f64c3c8e15~mv2.webp",
+        "alt": "City View"
+      }
+    ],
+    "links": []
+  },
+  "items": {
+    "title": "Items (List) | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "gallery": {
+    "title": "Aacropolis Homes Photo Gallery | Edmonton Home Builder | AacropolisHomes.com",
+    "blocks": [
+      {
+        "id": "comp-ilc3tzb4",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "GALLERY"
+          }
+        ],
+        "text": "GALLERY"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_8e8d838b1819431db334a3656cc36bb8~mv2.webp",
+        "alt": "4613 Knight Point-12.jpg"
+      },
+      {
+        "src": "assets/images/4c621c_7049814b92dc48b4adfbae1839bc9103~mv2.webp",
+        "alt": "4557 Knight Wynd-6.jpg"
+      }
+    ],
+    "links": [],
+    "galleries": {
+      "comp-jfwam4br_galleryData": [
+        {
+          "src": "assets/images/4c621c_8e8d838b1819431db334a3656cc36bb8~mv2.webp",
+          "alt": "Duplex, powder room, bathroom, wallpaper",
+          "title": "Powder room"
+        },
+        {
+          "src": "assets/images/4c621c_7049814b92dc48b4adfbae1839bc9103~mv2.webp",
+          "alt": "Kitchen island, bar stools, estate home",
+          "title": "Kitchen"
+        },
+        {
+          "src": "assets/images/4c621c_a5416b4adc9e4bd1b8b344bc55d92060~mv2.webp",
+          "alt": "Finished basement, bar, basement bar ",
+          "title": "Basement"
+        },
+        {
+          "src": "assets/images/4c621c_f992b50ba1c44901a2cfcd2ccd8341af~mv2.webp",
+          "alt": "Master bedroom, ensuite",
+          "title": "Bedroom"
+        },
+        {
+          "src": "assets/images/4c621c_faef8e3fa8224894b023678db4ee4d3b~mv2.webp",
+          "alt": "Ensuite, estate home",
+          "title": "Bathroom"
+        },
+        {
+          "src": "assets/images/4c621c_dcfd81e77ae649dbb0c4ed8574fea350~mv2_d_3400_2543_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, great room, spiral staircase",
+          "title": "Great Room Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_5be4333b4335470aa15c397260629440~mv2_d_5000_3894_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, walk-in closet, master bedroom, storage, clothing storage",
+          "title": "Walk-in Closet Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_f0afa45b66a54ce3a41d015d1c78eff2~mv2_d_2100_1565_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, open concept, great room, dining table",
+          "title": "Great Room Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_3cc31539be9c4744b9b727302fecd288~mv2_d_5000_3662_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, kitchen, kitchen island, white cabinets",
+          "title": "Kitchen Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_fc9d45d535ac4755b80ab4183c7d45fa~mv2_d_2100_1476_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, developed basement, games room, pool table, walk out basement",
+          "title": "Developed Basement Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_4ef64594704745a4ab5ec8b1967f0b0c~mv2_d_3400_2587_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, modern kitchen, island, custom built home",
+          "title": "Kitchen Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_4f69fd4276e549388c8087cf631dcd13~mv2_d_3400_2596_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, home office, den, multi-purpose room, custom home",
+          "title": "Office Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_7ea82848c0ef4688a1a48d27523078bc~mv2_d_5000_3698_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, kitchen, kitchen island, white cabinets ",
+          "title": "Kitchen Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_86c610144f44464a998da5c59cc6fb4e~mv2_d_2100_1576_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, walk-in closet, master bedroom, storage, clothing storage",
+          "title": "Walk-in Closet Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_f90f081aa97b461a81f56b4f79cf3a51~mv2_d_3400_2511_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, bonus room,  vaulted ceiling, window bench",
+          "title": "Bonus Room Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_51d6d70c58294a249ed84d0da5aa523b~mv2_d_2100_1575_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, foyer, entrance, open stairs, modern home",
+          "title": "Entrance Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_be8a16bec2264fe78041ba9a98f9a840~mv2_d_2550_1913_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, custom built home, home exterior",
+          "title": "Custom Built Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_fa0cada66fc248b997c5be6166191500~mv2_d_2100_1568_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, floor to ceiling windows, great room, custom built home",
+          "title": "Great Room Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_f8d04a63c86746b6b77025e4e94b42a7~mv2_d_3400_2147_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, custom built home, great room, stone fireplace, dining room",
+          "title": "Great Room Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_ea59ea34f23b465ca857869be44046c1~mv2_d_2550_1935_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, classic kitchen, kitchen design, white cabinets, kitchen island",
+          "title": "Kitchen Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_48272486ee9343b996414594ec052740~mv2_d_5000_3745_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, bathroom, dual sink, stand alone bath, shower, custom built home",
+          "title": "Ensuite Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_9abdd6ee7d6649a78c043147e453796c~mv2_d_5000_2743_s_4_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, custom built home, home exterior",
+          "title": "Custom Built Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_f1275f5fac784a7caeb014ac77146d3f~mv2_d_2100_1559_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, master bedroom, custom built home",
+          "title": "Master Bedroom Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_c666e975109b46daa2868617679a6363~mv2_d_2100_1747_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, home office, modern home, custom built home",
+          "title": "Home Office Aacropolis Homes "
+        },
+        {
+          "src": "assets/images/4c621c_d95665cc7c16453692872d6be300a959~mv2_d_2100_1911_s_2.webp",
+          "alt": "edmonton home builder, aacropolis homes, powder room, tile floor, custom built home",
+          "title": "Powder Room Aacropolis Homes "
+        }
+      ]
+    }
+  },
+  "post__why-choose-aacropolis-homes-for-your-acreage-build": {
+    "title": "Why Choose Aacropolis Homes For Your Acreage Build?",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_9abdd6ee7d6649a78c043147e453796c~mv2_d_5000_2743_s_4_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_be8a16bec2264fe78041ba9a98f9a840~mv2_d_2550_1913_s_2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Choosing the right builder is always an important decision, but when considering an acreage"
+      },
+      {
+        "tag": "p",
+        "text": "build it’s even more important to find a builder with not only experience with acreages but also the process to make it a seamless build."
+      },
+      {
+        "tag": "p",
+        "text": "Aacropolis Homes has over 30 years of experience building custom estate homes. We have built many acreage homes around Edmonton over those 30 plus years. Aligning with a team that understands the intricacies of an acreage build is important, as there are many things to"
+      },
+      {
+        "tag": "p",
+        "text": "consider throughout the process."
+      },
+      {
+        "tag": "p",
+        "text": "The first thing we can help with is identifying where you want to live. We can set you up with a realtor partner to find the right property for your dream home. Not all lots and build sites will offer the same opportunities. Things to consider when looking at where to build is what the site preparation will entail. Some lots will come with a lot of trees, so tree removal and site preparation will be both crucial and often expensive. Not every lot listed for sale will be"
+      },
+      {
+        "tag": "p",
+        "text": "serviced, we will help you to determine what the budget for bringing in power, water, septic"
+      },
+      {
+        "tag": "p",
+        "text": "and gas will be. Additionally, we will help you look at the soil conditions to see if the land is"
+      },
+      {
+        "tag": "p",
+        "text": "appropriate for a home build or if additional preparation will be needed."
+      },
+      {
+        "tag": "p",
+        "text": "We can meet you at the property to determine where the best place for your home build is. It’s exciting to consider views that you may get from important rooms in your home."
+      },
+      {
+        "tag": "p",
+        "text": "Additionally, we can look at the land and work with you on a layout for the driveway, landscaping and help you visualize where the rooms would make sense for your home floor plan."
+      },
+      {
+        "tag": "p",
+        "text": "Once you choose your location and lot, we can work with you on designing your dream home, considering the property, the needs of you and your family to develop a home layout that you will love!"
+      },
+      {
+        "tag": "p",
+        "text": "We will work with you on determining all the specifications of your home for both interior and exterior finishes and work with you to establish a budget for your home build. Factoring in all the potential expenses that can come up in developing your acreage we can help minimize any surprises throughout the home build. It is important to us that you have a clear understanding of the cost of your home project."
+      },
+      {
+        "tag": "p",
+        "text": "We have experience working with different municipalities, so we will take care of all the red"
+      },
+      {
+        "tag": "p",
+        "text": "tape and permitting needed to get started! All of our homes are built using the very best trade and supply partners. Our team and partners will lend all of their experience in acreage building to guide you through the process."
+      },
+      {
+        "tag": "p",
+        "text": "Getting started is as easy as giving Casey a call at 825.510.2298! We are here to help you make all your acreage dreams come true!"
+      }
+    ],
+    "date": "Jan 26, 2025",
+    "cover": "assets/images/4c621c_be8a16bec2264fe78041ba9a98f9a840~mv2_d_2550_1913_s_2.webp"
+  },
+  "checkout": {
+    "title": "Checkout | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "inquiry-services-page": {
+    "title": "Inquiry Services Page | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "digitalwelcome": {
+    "title": "Custom Home Builder | Aacropolis Homes | Edmonton | Aacropolishomes.com",
+    "blocks": [
+      {
+        "id": "comp-mp6895521",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "WELCOME"
+          }
+        ],
+        "text": "WELCOME"
+      },
+      {
+        "id": "comp-mp689558",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Interested in the lot you see? Let's talk."
+          }
+        ],
+        "text": "Interested in the lot you see? Let's talk."
+      }
+    ],
+    "images": [],
+    "links": [
+      {
+        "text": "Call Us",
+        "href": "tel:(825) 510-2298"
+      },
+      {
+        "text": "Visit Us",
+        "href": "https://maps.app.goo.gl/Y2CTzXy8F17ZEzSH6"
+      }
+    ]
+  },
+  "service-page": {
+    "title": "Service Page | Aacropolishomes",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/11062b_7344b0fffa9c41e580794c15cea365d5~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/11062b_1e99942894b4427fabbd87b9e85cbf95~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/11062b_6ec3e1291f63411b84ce766a74e99608~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/11062b_1c4adda107a544c5b89d0c069238eb9a~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/11062b_60d57732a78546119d2524ec64ad12df~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": []
+  },
+  "copy-of-show-homes": {
+    "title": "Aacropolis Homes Showhomes | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-k8rg5d37",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "VIDEO TOURS"
+          }
+        ],
+        "text": "VIDEO TOURS"
+      },
+      {
+        "id": "comp-k8rg5d3v",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SHOWHOME"
+          },
+          {
+            "tag": "h1",
+            "text": "FOR SALE"
+          }
+        ],
+        "text": "SHOWHOME FOR SALE"
+      },
+      {
+        "id": "comp-k8rix2hb",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Take a virtual tour of the community of Keswick"
+          }
+        ],
+        "text": "Take a virtual tour of the community of Keswick"
+      }
+    ],
+    "images": [],
+    "links": []
+  },
+  "thank-you-page": {
+    "title": "Thank You Page | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": [
+      {
+        "text": "Continue Browsing",
+        "href": "https://www.aacropolishomes.com"
+      }
+    ]
+  },
+  "post__follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty": {
+    "title": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_fb344086d5c045089a4305ea45da6bee~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "#7",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/7"
+      },
+      {
+        "text": "Alberta New Home Warranty",
+        "href": "https://anhwp.com/"
+      },
+      {
+        "text": "Alberta New Home Warranty",
+        "href": "https://anhwp.com/"
+      },
+      {
+        "text": "referral bonus of $3,000.00",
+        "href": "https://www.aacropolishomes.com/copy-of-about"
+      },
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal Entry #7: Possession and Warranty"
+      },
+      {
+        "tag": "p",
+        "text": "The journey to creating your dream home is almost complete and we are almost ready to hand over your keys!"
+      },
+      {
+        "tag": "p",
+        "text": "As we discussed last time, we will have a thorough walk through of your home 2-3 weeks prior to your possession day going through all the outstanding items with you. These final weeks we will be conducting strict quality control finalizing all the elements in your home. From paint touch ups to cabinetry tweaks, we want to turn over a home that you (and we) can be proud of! A final furnace cleaning, window washing and through clean of your home will be completed ready for your possession day."
+      },
+      {
+        "tag": "p",
+        "text": "In preparation for you moving in, we will prepare you for contacting all the service providers for your utilities."
+      },
+      {
+        "tag": "p",
+        "text": "On your official possession day, we strongly suggest you keep the day free of any deliveries or moving trucks so that we can focus on teaching you all about your home. We will walk you through the mechanical room, show you all the ins and outs of your home and go through the Alberta New Home Warranty certificate of possession with you. We will finally hand you your keys and leave you to bask in all the planning and hard work that went into completing your home!"
+      },
+      {
+        "tag": "p",
+        "text": "Our warranty protection includes 1 year coverage on all the elements of your home (workmanship and material), 2-year coverage on any systems (delivery and distribution system), 5-year coverage on the building envelope and 10-year structural protection. Our excellent standing with Alberta New Home Warranty is a testament to the care and attention to detail we provide for our clients and their homes."
+      },
+      {
+        "tag": "p",
+        "text": "We will do everything we can to turn over a deficiency free home, however if there are any back ordered items or details that need our trade partners to attend to, we will set up a trade day with you to have these items completed. We will equip you with our process for reporting warranty items and ensure that we rectify anything that needs attending to. When you buy an Aacropolis Home you can be assured that your home will be well cared for by us, as we want you to be proud of the workmanship in your home and enjoy hassle free warranty protection."
+      },
+      {
+        "tag": "p",
+        "text": "We know you are going to be extremely proud of your Aacropolis Home and we value your praise. The majority of our business comes from our clients’ referrals. When you refer a purchaser to Aacropolis Homes you will receive a referral bonus of $3,000.00. The referral of your friends and family is the greatest compliment you could give us!"
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Jun 19, 2024",
+    "cover": "assets/images/4c621c_fb344086d5c045089a4305ea45da6bee~mv2.webp"
+  },
+  "account-settings": {
+    "title": "Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "home": {
+    "title": "Custom Home Builder | Aacropolis Homes | Edmonton | Aacropolishomes.com",
+    "blocks": [
+      {
+        "id": "comp-kxj9rmq0",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "EDMONTON HOME BUILDER"
+          }
+        ],
+        "text": "EDMONTON HOME BUILDER"
+      },
+      {
+        "id": "comp-jl8a4urp",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Better living starts with us."
+          }
+        ],
+        "text": "Better living starts with us."
+      }
+    ],
+    "images": [],
+    "links": [
+      {
+        "text": "Visit Show Home",
+        "href": "https://www.aacropolishomes.com/show-homes"
+      }
+    ]
+  },
+  "booking-calendar": {
+    "title": "Custom Home Consultation - Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "post__rear-lane-attached-homes-in-keswick-on-the-river": {
+    "title": "Rear Lane Attached Homes in Keswick on the River",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_2c98c4d6eedc4e438c9584dbd7179e5a~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_4ee3888a38a348b98148c1c26cedc825~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_d9c0392ca7bc47209ce2eda79c729434~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_d38c75b803324c51b6ea191253554420~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_b2eaa892140148ecab469472f6b1e675~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "While Aacropolis has a long history of luxury custom homes throughout Edmonton and surrounding area, did you know that we have a very special product line in Keswick on the River? And even more impressive is the price point!"
+      },
+      {
+        "tag": "p",
+        "text": "Our 2 storey, attached garage homes with tones of curb appeal start in the mid $700,000’s. These homes offer a rear lane access with an extremely attractive streetscape, just a stones throw from Edmonton’s pristine river valley."
+      },
+      {
+        "tag": "p",
+        "text": "These rear lane- attached homes come with an abundance of large windows, high ceilings, thoughtfully planned layouts including open concept kitchens as well as large bedrooms. Design features such as a linear fireplace, modern lighting and lots storage are all included in our homes!"
+      },
+      {
+        "tag": "p",
+        "text": "Whether you are looking for a move in ready, pre-designed home or want to customize your own design we have options for you!"
+      },
+      {
+        "tag": "p",
+        "text": "Award winning and prestigious Keswick on the River in south west Edmonton is almost complete, our remaining laned lots are some of the last opportunities to call this area home. With quiet walking trails, parks and close proximity to schools this community flanks the river valley."
+      },
+      {
+        "tag": "p",
+        "text": "Visit our show home at 4541 Knight Wynd SW or call 825.510.2298 to learn more!"
+      }
+    ],
+    "date": "Dec 19, 2024",
+    "cover": "assets/images/4c621c_f5478cb69f0447469ea60c424bf53b5e~mv2.webp"
+  },
+  "items__this-is-a-title-02": {
+    "title": "This is a Title 02 | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-mut5haqa2",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "This is a Title 02"
+          }
+        ],
+        "text": "This is a Title 02"
+      },
+      {
+        "id": "comp-mut5haqb1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content."
+      },
+      {
+        "id": "comp-mut5haqg1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+          }
+        ],
+        "text": "This is placeholder text. To change this content, double-click on the element and click Change Content. Want to view and manage all your collections? Click on the Content Manager button in the Add panel on the left. Here, you can make changes to your content, add new fields, create dynamic pages and more. You can create as many collections as you need.Your collection is already set up for you with fields and content. Add your own, or import content from a CSV file. Add fields for any type of content you want to display, such as rich text, images, videos and more. You can also collect and store information from your site visitors using input elements like custom forms and fields.Be sure to click Sync after making changes in a collection, so visitors can see your newest content on your live site. Preview your site to check that all your elements are displaying content from the right collection fields."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/fc7570_ae9913d461894a7ebb7fc420d828ab83~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "< Back",
+        "href": "https://www.aacropolishomes.com/items"
+      }
+    ]
+  },
+  "service-page__custom-home-consultation": {
+    "title": "Custom Home Consultation | Aacropolishomes",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_e861b9a131134019babdf87ec02e99c2~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_20fae15db06a48119ecf30a7c46f5f21~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://www.aacropolishomes.com"
+      },
+      {
+        "text": "Service list",
+        "href": "https://www.aacropolishomes.com/book-online"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Our Blog | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-muvtltwe",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Learn & Discover"
+          }
+        ],
+        "text": "Learn & Discover"
+      },
+      {
+        "id": "comp-muvv4m22",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Expert guides for every step of the journey"
+          }
+        ],
+        "text": "Expert guides for every step of the journey"
+      },
+      {
+        "id": "comp-muvtjlnm",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Explore expert advice for every project from vision to completion."
+          }
+        ],
+        "text": "Explore expert advice for every project from vision to completion."
+      },
+      {
+        "id": "comp-muvu46er",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Browse our blogs"
+          }
+        ],
+        "text": "Browse our blogs"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/11062b_474ac7080f9e495ead3138f64c3c8e15~mv2.webp",
+        "alt": "City View"
+      },
+      {
+        "src": "assets/images/4c621c_be8a16bec2264fe78041ba9a98f9a840~mv2_d_2550_1913_s_2.webp",
+        "alt": "Why Choose Aacropolis Homes For Your Acreage Build?"
+      },
+      {
+        "src": "assets/images/4c621c_f5478cb69f0447469ea60c424bf53b5e~mv2.webp",
+        "alt": "Rear Lane Attached Homes in Keswick on the River"
+      },
+      {
+        "src": "assets/images/4c621c_fb344086d5c045089a4305ea45da6bee~mv2.webp",
+        "alt": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty"
+      },
+      {
+        "src": "assets/images/4c621c_d3f19d510e0e45e8bdf93a79ec851ec4~mv2.webp",
+        "alt": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process"
+      },
+      {
+        "src": "assets/images/4c621c_5f0199d01bb14bcf99fbb95744610cd9~mv2.webp",
+        "alt": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #5) The Interior Selections Process"
+      },
+      {
+        "src": "assets/images/4c621c_c4c662e243594c69bfaeb65998678542~mv2.webp",
+        "alt": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #4) Permitting & Site Preparation"
+      },
+      {
+        "src": "assets/images/4c621c_889ad8c5f85a490d80a3625a80c3cf1b~mv2.webp",
+        "alt": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #3) Planning Your Dream Exterior"
+      },
+      {
+        "src": "assets/images/4c621c_ced6d0c4a2a74a41be486459552cabd9~mv2.webp",
+        "alt": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #2) Designing Your Dream Home"
+      },
+      {
+        "src": "assets/images/4c621c_f1e26d25b8cc4f6c8039887eca2b142e~mv2.webp",
+        "alt": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #1) Finding The Right Lot"
+      }
+    ],
+    "links": [
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #5) The Interior Selections Process",
+        "href": "https://www.aacropolishomes.com/post/copy-of-follow-along-our-dream-home-build-infill-edition-journal-entry-5-the-interior-selections"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #4) Permitting & Site Preparation",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-4-permitting-site-preparation"
+      },
+      {
+        "text": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #3) Planning Your Dream Exterior",
+        "href": "https://www.aacropolishomes.com/post/copy-of-follow-along-our-dream-home-build-infill-edition"
+      },
+      {
+        "text": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #2) Designing Your Dream Home",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-1"
+      },
+      {
+        "text": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #1) Finding The Right Lot",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition"
+      }
+    ]
+  },
+  "post__follow-along-our-dream-home-build-infill-edition-1": {
+    "title": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #2) Designing Your Dream Home",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_ced6d0c4a2a74a41be486459552cabd9~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal Entry 2: Designing Your Dream Home"
+      },
+      {
+        "tag": "p",
+        "text": "Once you have identified the lot in your desired neighbourhood that is right for your dream home, we can start planning your home layout. Let the fun begin!"
+      },
+      {
+        "tag": "p",
+        "text": "We love working with our clients and seeing their specific wish list. Things such as “we love a bright sunny kitchen” can be a great jumping off point. Often times, we start from napkin sketches and work towards full building blueprints. As an experienced builder, we know how to ask all the right questions. A sit-down meeting will get the ideas flowing as we discuss how you like to live in your home and what features are most important."
+      },
+      {
+        "tag": "p",
+        "text": "While you don’t need to come to us with a layout in mind, some of our clients have done a lot of dreaming and research and have floor plans they have seen and love. So, whether you’ve given it lots of thought or just don’t know where to start, we will guide you through the process of figuring out what is important to you for your home. That’s where all those questions can really help to pin point the rooms and layout that work best!"
+      },
+      {
+        "tag": "p",
+        "text": "Rough sketches, ideas about room flow, stair case styles and important spaces are then brought to our drafting designer where they begin their magic. We will facilitate the process by collaborating with the client and the drafting team to come up with a layout that works well on the property and captures the specific home owner’s personality and lifestyle. It’s also important to keep the lot features in mind when working on a layout. Perhaps there are views we are trying to capture in key rooms or maybe the morning or afternoon sun is desired in particular spaces."
+      },
+      {
+        "tag": "p",
+        "text": "Utilizing our expertise to navigate the particular lot’s setbacks and city guidelines is also key. We have to make sure the layout not only fits a particular client’s needs, but will also be accepted with the city permitting/architectural agent of a community. We never want a client to fall in love with a plan and end up not being able to build it because it doesn’t meet the guidelines."
+      },
+      {
+        "tag": "p",
+        "text": "We really strive to make this process not only fun but easy. There is a huge benefit in working with a builder through the process of planning, as we can keep your investment level in mind. Both a clients budget as well as cost effective building practices should factor into a home design."
+      },
+      {
+        "tag": "p",
+        "text": "We often hear that clients just can’t visualize a plan on paper and that’s something we can help with. Meeting with you in a couple of our homes, with a tape measure and your plans in hand, we can help you visualize just what your house will be like. We want you to truly understand the home design long before a shovel ever hits the ground."
+      },
+      {
+        "tag": "p",
+        "text": "Next blog post will be all about exteriors and ensuring the curb appeal of your home matches your personality and the neighbourhood. Follow along for our third journal entry to learn this next crucial step in planning."
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Dec 13, 2023",
+    "cover": "assets/images/4c621c_ced6d0c4a2a74a41be486459552cabd9~mv2.webp"
+  },
+  "show-homes": {
+    "title": "Aacropolis Homes Showhomes | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-jl8abtv5",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SHOW HOMES"
+          }
+        ],
+        "text": "SHOW HOMES"
+      },
+      {
+        "id": "comp-kvbbw6cb",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SHOW HOME OPEN & FOR SALE"
+          }
+        ],
+        "text": "SHOW HOME OPEN & FOR SALE"
+      },
+      {
+        "id": "comp-kvcl3sjj",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "ALMOST SOLD OUT! One luxury duplex bungalow available for quick possession."
+          }
+        ],
+        "text": "ALMOST SOLD OUT! One luxury duplex bungalow available for quick possession."
+      },
+      {
+        "id": "comp-jl8ayt0b",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "KESWICK ELEANOR Duplex Bungalow 4621 Knight Point SW Edmonton, AB"
+          }
+        ],
+        "text": "KESWICK ELEANOR Duplex Bungalow 4621 Knight Point SW Edmonton, AB"
+      },
+      {
+        "id": "comp-mjg697x3",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "SHOW HOME NOW OPEN!"
+          },
+          {
+            "tag": "p",
+            "text": "Monday-Thurs: 3-8PM"
+          },
+          {
+            "tag": "p",
+            "text": "Sat - Sun: Noon-5PM"
+          },
+          {
+            "tag": "p",
+            "text": "Closed Friday"
+          },
+          {
+            "tag": "p",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "p",
+            "text": "Email: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "SHOW HOME NOW OPEN! Monday-Thurs: 3-8PM Sat - Sun: Noon-5PM Closed Friday Phone: 825.510.2298 Email: casey@aacropolishomes.com"
+      },
+      {
+        "id": "comp-m2t6hrew",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SOLD"
+          }
+        ],
+        "text": "SOLD"
+      },
+      {
+        "id": "comp-m2t6ftgq5",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "KESWICK LOANNA"
+          },
+          {
+            "tag": "h2",
+            "text": "Rear Attached Garage - 2,371 Sq. Ft"
+          },
+          {
+            "tag": "h2",
+            "text": "4541 Knight Wynd SW"
+          },
+          {
+            "tag": "h2",
+            "text": "Edmonton, AB"
+          }
+        ],
+        "text": "KESWICK LOANNA Rear Attached Garage - 2,371 Sq. Ft 4541 Knight Wynd SW Edmonton, AB"
+      },
+      {
+        "id": "comp-mjt9f1ze",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "p",
+            "text": "Email: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "Phone: 825.510.2298 Email: casey@aacropolishomes.com"
+      },
+      {
+        "id": "comp-m3eq68q0",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "RIVERSTEAD LOTS"
+          },
+          {
+            "tag": "h2",
+            "text": "NOW AVAILABLE"
+          },
+          {
+            "tag": "h2",
+            "text": "Contact Casey to discuss Stage 52, 55 and 56 river lots!"
+          },
+          {
+            "tag": "h1",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "h1",
+            "text": "Area Sales Manager: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "RIVERSTEAD LOTS NOW AVAILABLE Contact Casey to discuss Stage 52, 55 and 56 river lots! Phone: 825.510.2298 Area Sales Manager: casey@aacropolishomes.com"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_0847278b9a5a44faac7039e8864c9fff~mv2.webp",
+        "alt": "Luxury Bungalow Duplex"
+      },
+      {
+        "src": "assets/images/4c621c_81d1d5eefd174e3a9442e414a0883ae0~mv2.webp",
+        "alt": "4541 Knight Wynd SW Loanna"
+      },
+      {
+        "src": "assets/images/4c621c_bcc11aa6e8d24701bb91fbeac221d759~mv2.webp",
+        "alt": "Keswick on the River"
+      }
+    ],
+    "links": [
+      {
+        "text": "CLICK FOR LOCATION",
+        "href": "https://maps.app.goo.gl/Y2CTzXy8F17ZEzSH6"
+      },
+      {
+        "text": "download information brochure",
+        "href": "https://www.aacropolishomes.com/_files/ugd/d4109a_275f2b98ddb243f2875863abed8d33b0.pdf"
+      },
+      {
+        "text": "825.510.2298",
+        "href": "tel:(780) 434-3275"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com"
+      },
+      {
+        "text": "CLICK FOR LOCATION",
+        "href": "https://maps.app.goo.gl/Mi17zPMm1fSr8Ton7"
+      },
+      {
+        "text": "download information brochure",
+        "href": "https://www.aacropolishomes.com/_files/ugd/4c621c_d7940dc9044a40e88a5296f48dae3c39.pdf"
+      },
+      {
+        "text": "825.510.2298",
+        "href": "tel:(780) 434-3275"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com"
+      },
+      {
+        "text": "825.510.2298",
+        "href": "tel:1-825-510-2298"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com?subject=Riverstead"
+      },
+      {
+        "text": "overall map",
+        "href": "https://www.aacropolishomes.com/_files/ugd/4c621c_299af459fbf4429e85466a68029e5886.pdf"
+      }
+    ]
+  },
+  "booking-form": {
+    "title": "Booking Form | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "quick-possession": {
+    "title": "Aacropolis Homes Quick Possession | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-mjg3gtn6",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "QUICK POSSESSION HOMES"
+          }
+        ],
+        "text": "QUICK POSSESSION HOMES"
+      },
+      {
+        "id": "comp-mjg3ds683",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SHOW HOME"
+          }
+        ],
+        "text": "SHOW HOME"
+      },
+      {
+        "id": "comp-mjg3ds692",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "FOR SALE"
+          }
+        ],
+        "text": "FOR SALE"
+      },
+      {
+        "id": "comp-mjg3ds695",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "ELEANOR III"
+          },
+          {
+            "tag": "h2",
+            "text": "1,598 Sq.Ft."
+          },
+          {
+            "tag": "h2",
+            "text": "4621 Knight Point SW"
+          },
+          {
+            "tag": "h2",
+            "text": "Edmonton, AB"
+          },
+          {
+            "tag": "h1",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "h1",
+            "text": "Area Sales Manager: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "ELEANOR III 1,598 Sq.Ft. 4621 Knight Point SW Edmonton, AB Phone: 825.510.2298 Area Sales Manager: casey@aacropolishomes.com"
+      },
+      {
+        "id": "comp-mjg3ds5u",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SHOW HOME"
+          }
+        ],
+        "text": "SHOW HOME"
+      },
+      {
+        "id": "comp-mjg3ds5y2",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "FOR SALE"
+          }
+        ],
+        "text": "FOR SALE"
+      },
+      {
+        "id": "comp-mjg3ds5z2",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "LOANNA"
+          },
+          {
+            "tag": "h2",
+            "text": "2,371 Sq.Ft.\\"
+          },
+          {
+            "tag": "h2",
+            "text": "4541 Knight Wynd SW"
+          },
+          {
+            "tag": "h2",
+            "text": "Edmonton, AB"
+          },
+          {
+            "tag": "h1",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "h1",
+            "text": "Area Sales Manager: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "LOANNA 2,371 Sq.Ft.\\ 4541 Knight Wynd SW Edmonton, AB Phone: 825.510.2298 Area Sales Manager: casey@aacropolishomes.com"
+      },
+      {
+        "id": "comp-kzhkjhj6",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "SOLD"
+          }
+        ],
+        "text": "SOLD"
+      },
+      {
+        "id": "comp-kzhkc0pk",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "ELEANOR 1,581 Sq.Ft.\\"
+          },
+          {
+            "tag": "h2",
+            "text": "4616 Knight Point SW Edmonton, AB"
+          },
+          {
+            "tag": "h1",
+            "text": "Phone: 825.510.2298"
+          },
+          {
+            "tag": "h1",
+            "text": "Area Sales Manager: casey@aacropolishomes.com"
+          }
+        ],
+        "text": "ELEANOR 1,581 Sq.Ft.\\ 4616 Knight Point SW Edmonton, AB Phone: 825.510.2298 Area Sales Manager: casey@aacropolishomes.com"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_eb8998b3aa234c209cd1ab5f1e0d658a~mv2.webp",
+        "alt": "Luxury Duplex Custom Bungalow"
+      },
+      {
+        "src": "assets/images/4c621c_81d1d5eefd174e3a9442e414a0883ae0~mv2.webp",
+        "alt": "4541 Knight Wynd SW Loanna Custom Home"
+      },
+      {
+        "src": "assets/images/4c621c_0847278b9a5a44faac7039e8864c9fff~mv2.webp",
+        "alt": "Knight Point Custom Duplex Bungalow"
+      }
+    ],
+    "links": [
+      {
+        "text": "825.510.2298",
+        "href": "tel:1-825-510-2298"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com"
+      },
+      {
+        "text": "download information brochure",
+        "href": "https://www.aacropolishomes.com/_files/ugd/4c621c_78bf6f4f26e04b6c91513ffe603d0815.pdf"
+      },
+      {
+        "text": "825.510.2298",
+        "href": "tel:1-825-510-2298"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com"
+      },
+      {
+        "text": "download information brochure",
+        "href": "https://www.aacropolishomes.com/_files/ugd/4c621c_d7940dc9044a40e88a5296f48dae3c39.pdf"
+      },
+      {
+        "text": "825.510.2298",
+        "href": "tel:1-825-510-2298"
+      },
+      {
+        "text": "casey@aacropolishomes.com",
+        "href": "mailto:casey@aacropolishomes.com"
+      }
+    ]
+  },
+  "our-homes": {
+    "title": "OUR HOMES | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-kprewv86",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "ESTATE HOMES"
+          }
+        ],
+        "text": "ESTATE HOMES"
+      },
+      {
+        "id": "comp-kprewv8k",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Our team collaborates closely with clients to bring their vision to life, ensuring every detail—from the architectural style to the finishes—exudes elegance and sophistication."
+          },
+          {
+            "tag": "p",
+            "text": "With a commitment to exceptional quality and an eye for luxury, we create spaces that inspire and elevate everyday living."
+          },
+          {
+            "tag": "p",
+            "text": "Our blend of luxury, quality and value has served us, and our clients well."
+          }
+        ],
+        "text": "Our team collaborates closely with clients to bring their vision to life, ensuring every detail—from the architectural style to the finishes—exudes elegance and sophistication. With a commitment to exceptional quality and an eye for luxury, we create spaces that inspire and elevate everyday living. Our blend of luxury, quality and value has served us, and our clients well."
+      },
+      {
+        "id": "comp-kprexghf",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "ESTATE DUPLEX BUNGALOWS"
+          }
+        ],
+        "text": "ESTATE DUPLEX BUNGALOWS"
+      },
+      {
+        "id": "comp-kprexght",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Executive style bungalow duplexes built by Aacropolis Homes are functional, beautiful, and designed for you."
+          }
+        ],
+        "text": "Executive style bungalow duplexes built by Aacropolis Homes are functional, beautiful, and designed for you."
+      },
+      {
+        "id": "comp-kpreyfzm",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "INFILL HOMES"
+          }
+        ],
+        "text": "INFILL HOMES"
+      },
+      {
+        "id": "comp-kpreyg03",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Beyond building in prestigious new communities we have experience building on acreages as well as infill homes in mature neighbourhoods."
+          },
+          {
+            "tag": "p",
+            "text": "Whether you are coming to us with a property and a floorplan or starting from scratch, we will guide you through the infill process."
+          },
+          {
+            "tag": "p",
+            "text": "We can help navigate through demolition, permitting and planning for your dream home in a mature neighbourhood."
+          }
+        ],
+        "text": "Beyond building in prestigious new communities we have experience building on acreages as well as infill homes in mature neighbourhoods. Whether you are coming to us with a property and a floorplan or starting from scratch, we will guide you through the infill process. We can help navigate through demolition, permitting and planning for your dream home in a mature neighbourhood."
+      },
+      {
+        "id": "comp-lfmt3j2i",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "ACREAGE HOMES"
+          }
+        ],
+        "text": "ACREAGE HOMES"
+      },
+      {
+        "id": "comp-lod2l5mk",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "If you want room to expand and nestle into nature, our experience building acreage homes is invaluable. Navigating services, land preparation and home design all in one place, resulting in your dream acreage property"
+          }
+        ],
+        "text": "If you want room to expand and nestle into nature, our experience building acreage homes is invaluable. Navigating services, land preparation and home design all in one place, resulting in your dream acreage property"
+      },
+      {
+        "id": "comp-kprf058v",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "REAR LANE HOMES"
+          }
+        ],
+        "text": "REAR LANE HOMES"
+      },
+      {
+        "id": "comp-kprf059d",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "2 lots now remain in Keswick on the River for this product line!"
+          },
+          {
+            "tag": "p",
+            "text": "Immediate possession available."
+          }
+        ],
+        "text": "2 lots now remain in Keswick on the River for this product line! Immediate possession available."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_317a16dc1df2485fbc9ec0912136fa24~mv2_d_2100_1647_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_9abdd6ee7d6649a78c043147e453796c~mv2_d_5000_2743_s_4_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_3f0c84cf3af24ae892fa311a2f3fb8d7~mv2_d_2100_1613_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_ea59ea34f23b465ca857869be44046c1~mv2_d_2550_1935_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_b10fb97b22fd48a0baa41d157ca63e1e~mv2_d_3400_2311_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_95b62b99fd084cf08d0462e40a0f9b84~mv2_d_2100_1603_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_c1fb0d3a9d9b4a6bacd611cc7904e54e~mv2_d_2100_1574_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_fc9d45d535ac4755b80ab4183c7d45fa~mv2_d_2100_1476_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_d15c2ddd500a4dfc8840bd99417cd7ac~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_a6880737279a4a9999a198a37699cdba~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_983b5d2525c84aeda1c0eb5cd3486c7c~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_b299bdcd57d84c5a843c00f90de9719f~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_8f4d38cb550e45b6ba55ebac4b61c7b2~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_9632a1469704442c81a01cbce6108c05~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_3504ddaa679b41e3bfd848c7a036ca6a~mv2_d_2100_1625_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_f3ee97f2ced04db5add907cb855a0818~mv2_d_2100_1597_s_2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_4ceab1ddd6f04b8c8f1620a57c3bd374~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_20fae15db06a48119ecf30a7c46f5f21~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_bdd6e31edb3642f983240f83235077bd~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_f80d3186d4eb45b898e89864b1f611e2~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_1586d8bdcae74222ab6e2958f6420bc7~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_93b0f71c80aa44b1902df3aa92e133c2~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_d7475c1d6e0d40428660c36732365506~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_26a0803bf7874706b9f51c8a143eee61~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_81d1d5eefd174e3a9442e414a0883ae0~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_721dc9349e444b1c88021a69f56d74e6~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_9c7f286f7b5544198da4965a6c56b967~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_c8b49f665a5a401386db8e303feb36fe~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "View available duplex bungalows",
+        "href": "https://www.aacropolishomes.com/quick-possession"
+      },
+      {
+        "text": "VISIT BUNGALOW DUPLEX SHOWHOME",
+        "href": "https://www.aacropolishomes.com/show-homes"
+      },
+      {
+        "text": "VIEW AVAILABLE REAR LANE HOME",
+        "href": "https://www.aacropolishomes.com/_files/ugd/4c621c_d7940dc9044a40e88a5296f48dae3c39.pdf"
+      },
+      {
+        "text": "Read more about rear lane homes",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      }
+    ],
+    "galleries": {
+      "comp-m4bhm7hl_galleryData": [
+        {
+          "src": "assets/images/4c621c_4ceab1ddd6f04b8c8f1620a57c3bd374~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_20fae15db06a48119ecf30a7c46f5f21~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_bdd6e31edb3642f983240f83235077bd~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_f80d3186d4eb45b898e89864b1f611e2~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_1586d8bdcae74222ab6e2958f6420bc7~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_93b0f71c80aa44b1902df3aa92e133c2~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_d7475c1d6e0d40428660c36732365506~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_5bea7896b57a46ba96c0da86a15af517~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        }
+      ],
+      "comp-kq11rumz_galleryData": [
+        {
+          "src": "assets/images/4c621c_317a16dc1df2485fbc9ec0912136fa24~mv2_d_2100_1647_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_9abdd6ee7d6649a78c043147e453796c~mv2_d_5000_2743_s_4_2.webp",
+          "alt": "IM2900_01.jpg",
+          "title": "IM2900_01.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_3f0c84cf3af24ae892fa311a2f3fb8d7~mv2_d_2100_1613_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_ea59ea34f23b465ca857869be44046c1~mv2_d_2550_1935_s_2.webp",
+          "alt": "IM2012_05.jpg",
+          "title": "IM2012_05.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_b10fb97b22fd48a0baa41d157ca63e1e~mv2_d_3400_2311_s_2.webp",
+          "alt": "Summerside.jpg",
+          "title": "Summerside.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_95b62b99fd084cf08d0462e40a0f9b84~mv2_d_2100_1603_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_c1fb0d3a9d9b4a6bacd611cc7904e54e~mv2_d_2100_1574_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_fc9d45d535ac4755b80ab4183c7d45fa~mv2_d_2100_1476_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_eacdfb52a0f04b7ebf2b80e94c83fcab~mv2_d_1700_2100_s_2.webp",
+          "alt": "IM1049_01.jpg",
+          "title": "IM1049_01.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_fc9d45d535ac4755b80ab4183c7d45fa~mv2_d_2100_1476_s_2.webp",
+          "alt": "IM3056_20.jpg",
+          "title": "IM3056_20.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_a61de014a8f043c7a07b05b8426f8b50~mv2_d_2100_1533_s_2.webp",
+          "alt": "IM3056_19.jpg",
+          "title": "IM3056_19.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_4ef64594704745a4ab5ec8b1967f0b0c~mv2_d_3400_2587_s_4_2.webp",
+          "alt": "IM2616_11.jpg",
+          "title": "IM2616_11.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_5be4333b4335470aa15c397260629440~mv2_d_5000_3894_s_4_2.webp",
+          "alt": "IM2900_10.jpg",
+          "title": "IM2900_10.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_dcfd81e77ae649dbb0c4ed8574fea350~mv2_d_3400_2543_s_4_2.webp",
+          "alt": "IM2537_02.jpg",
+          "title": "IM2537_02.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_be8a16bec2264fe78041ba9a98f9a840~mv2_d_2550_1913_s_2.webp",
+          "alt": "IM2012_01.jpg",
+          "title": "IM2012_01.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_f1275f5fac784a7caeb014ac77146d3f~mv2_d_2100_1559_s_2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        }
+      ],
+      "comp-kq11t6te_galleryData": [
+        {
+          "src": "assets/images/4c621c_d15c2ddd500a4dfc8840bd99417cd7ac~mv2.webp",
+          "alt": "IM3109_11.jpg",
+          "title": "IM3109_11.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_a6880737279a4a9999a198a37699cdba~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_983b5d2525c84aeda1c0eb5cd3486c7c~mv2.webp",
+          "alt": "Knight Point 28-29 Bungalow Rendering - HI RES - Dec 18-2020.jpg",
+          "title": "Knight Point 28-29 Bungalow Rendering - HI RES - Dec 18-2020.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_b299bdcd57d84c5a843c00f90de9719f~mv2.webp",
+          "alt": "IM3109_06.jpg",
+          "title": "IM3109_06.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_8f4d38cb550e45b6ba55ebac4b61c7b2~mv2.webp",
+          "alt": "IM3109_04.jpg",
+          "title": "IM3109_04.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_9632a1469704442c81a01cbce6108c05~mv2.webp",
+          "alt": "IM3109_02.jpg",
+          "title": "IM3109_02.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_3504ddaa679b41e3bfd848c7a036ca6a~mv2_d_2100_1625_s_2.webp",
+          "alt": "IM3108_03.jpg",
+          "title": "IM3108_03.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_f3ee97f2ced04db5add907cb855a0818~mv2_d_2100_1597_s_2.webp",
+          "alt": "IM3108_04.jpg",
+          "title": "IM3108_04.jpg"
+        },
+        {
+          "src": "assets/images/4c621c_96cc9b0ec0954ef0860efec9ff9c891d~mv2_d_2100_1746_s_2.webp",
+          "alt": "IM3109_02.jpg",
+          "title": "IM3109_02.jpg"
+        }
+      ],
+      "comp-m4bi19ll_galleryData": [
+        {
+          "src": "assets/images/4c621c_26a0803bf7874706b9f51c8a143eee61~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_81d1d5eefd174e3a9442e414a0883ae0~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_721dc9349e444b1c88021a69f56d74e6~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_9c7f286f7b5544198da4965a6c56b967~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        },
+        {
+          "src": "assets/images/4c621c_c8b49f665a5a401386db8e303feb36fe~mv2.webp",
+          "alt": "Aacropolis custom home",
+          "title": ""
+        }
+      ]
+    }
+  },
+  "post__follow-along-our-dream-home-build-infill-edition-journal-entry-6-the-construction-process": {
+    "title": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #6) The Construction Process",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_d3f19d510e0e45e8bdf93a79ec851ec4~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_30e8324e18724527b13d866e12f762c8~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "#6",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/6"
+      },
+      {
+        "text": "https://www.chba.ca/the-construction-process/",
+        "href": "https://www.chba.ca/the-construction-process/"
+      },
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal Entry #6: The Construction Process"
+      },
+      {
+        "tag": "p",
+        "text": "The waiting is finally over and we are ready to build your house!"
+      },
+      {
+        "tag": "p",
+        "text": "Let’s get the most commonly asked"
+      },
+      {
+        "tag": "p",
+        "text": "question out of the way:"
+      },
+      {
+        "tag": "p",
+        "text": "“When can we move in?”"
+      },
+      {
+        "tag": "p",
+        "text": "While this is going to be dependent on the size and scale of your home, it is typical that our homes will take anywhere between 9-12 months of construction from the time we excavate the foundation. Some of the variables are the square footage of your home, the details within your home and any delays due to weather."
+      },
+      {
+        "tag": "p",
+        "text": "At Aacropolis Homes, we pride ourselves in creating a comprehensive schedule for the construction of your home, coordinating all of our trades and suppliers to be as time sensitive as possible. At the same time, we won’t sacrifice on quality and attention to detail in order to rush the build."
+      },
+      {
+        "tag": "p",
+        "text": "Speaking of our Trades and Suppliers, we utilize partners in building your home based on their quality of workmanship, timelines and responsiveness to completing each scope of work as well as their commitment to warranty of their workmanship. Our partnerships are important to our reputation and we are stringent on ensuring we have the best companies working with us."
+      },
+      {
+        "tag": "p",
+        "text": "A great resource which outlines each of the stages of construction is found on the CHBA website. The link here details the major milestones of your home build:"
+      },
+      {
+        "tag": "p",
+        "text": "https://www.chba.ca/the-construction-process/"
+      },
+      {
+        "tag": "p",
+        "text": "We will engage you throughout the Construction Process with several critical walk through’s during your build, to both show the workmanship and also to guide you through your selections process as outlined in our last Journal Entry (Interior Selections). We know it is exciting to see the progress and we will make sure you have plenty of opportunities to visit your home when it is clean and safe to do so! We never want you to feel like anything is hidden during the build process and also know that you will be excited to see each stage come together!"
+      },
+      {
+        "tag": "p",
+        "text": "We will keep you updated on the scheduling of your home along the way and we will estimate your possession date as we progress through your build. Your official date of possession letter will come at least 35 days in advance, this will be the firm date that your home will be completed."
+      },
+      {
+        "tag": "p",
+        "text": "Around 2-3 weeks ahead of your possession date we will do a walk through of your home to identify items to be completed and address any outstanding deficiencies. The next few weeks will be dedicated to completing, cleaning and installing any appliances and final touches ahead of your move in day!"
+      },
+      {
+        "tag": "p",
+        "text": "We take a lot of pride in our homes and your experience matters a great deal to us! We will keep the lines of communication open throughout the construction process. We strive to make your dream home build as enjoyable and easy as possible! A strong process means that each stage can be fun rather than stressful. This is the reason the majority of our business comes from referrals."
+      },
+      {
+        "tag": "p",
+        "text": "Next time we will outline what to prepare for your move in day, as well as detail the warranty and service program for your home."
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "May 16, 2024",
+    "cover": "assets/images/4c621c_d3f19d510e0e45e8bdf93a79ec851ec4~mv2.webp"
+  },
+  "post__copy-of-follow-along-our-dream-home-build-infill-edition": {
+    "title": "Follow Along our Dream Home Build: Infill Edition (Journal Entry #3) Planning Your Dream Exterior",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_889ad8c5f85a490d80a3625a80c3cf1b~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Planning Your Dream Exterior"
+      },
+      {
+        "tag": "p",
+        "text": "We feel that the key to not being overwhelmed with all the details planning your dream home is to tackle the decision making in bite sized pieces. Now that your floorplan is finalized, we can start focusing on the outside of the house."
+      },
+      {
+        "tag": "p",
+        "text": "We recommend first identifying the style of exterior that appeals to you. We help you understand the style categories first. Whether its Contemporary, Prairie, Craftsman, Heritage, California, Colonial, French Country or more recently Farmhouse Modern, capturing a style you are drawn to is a great first step."
+      },
+      {
+        "tag": "p",
+        "text": "You may come with some inspiration, either from driving around newer communities or from on-line searching. This can really help lead our discussions around an architectural style. We will identify which parts of a specific style that is drawing your attention. Is it the rooflines, window groupings or features such as a full veranda that are the key factors?"
+      },
+      {
+        "tag": "p",
+        "text": "We will then engage our Drafting Designer to come up with an initial front elevation idea and from there can identify the characteristics of the style and see it come together. Once we have finalized a 2-D front elevation, we can get into further details with more realistic renderings and start incorporating colours."
+      },
+      {
+        "tag": "p",
+        "text": "Each style will lend itself to the most suitable materials for the exterior. For example, Farmhouse Modern exteriors that are becoming more popular now are most suited to a James Hardie Siding and either stone or brick accents. Choosing the materials first and then narrowing it down to colour and location of accents will tie the exterior together. Visualizing these choices through renderings ensures that you feel confident about your decisions."
+      },
+      {
+        "tag": "p",
+        "text": "We will work our way around the house, drawing all 4 sides of the exterior. As the elevations are drawn, we can further look at window sizes and placement and cross reference those to the interior layout of the home to ensure we have the best windows (groupings and sizes) chosen for your home."
+      },
+      {
+        "tag": "p",
+        "text": "This stage truly is exciting, as it brings the house to life and shows the street appeal of your design. Once we have the elevations complete we can move into full blueprints and begin the process of putting together the permitting package! In our next journal entry, we will discuss the permitting process and stages leading up to construction including site preparation. This another area where enlisting a trusted builder with infill experience will come into play."
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Feb 9, 2024",
+    "cover": "assets/images/4c621c_889ad8c5f85a490d80a3625a80c3cf1b~mv2.webp"
+  },
+  "copy-of-about": {
+    "title": "Aacropolis Homes Promotions | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-jnani6y8",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "REFERRAL"
+          }
+        ],
+        "text": "REFERRAL"
+      },
+      {
+        "id": "comp-jnani6yk",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "The referral of your friends & family is the greatest compliment you could give us!"
+          },
+          {
+            "tag": "p",
+            "text": "Refer a Friend to Aacropolis Homes & Receive $2,000 ..."
+          },
+          {
+            "tag": "p",
+            "text": "Existing Aacropolis Home Owners Receive $3,000!"
+          },
+          {
+            "tag": "p",
+            "text": "Do you know someone in the market for a new home?"
+          },
+          {
+            "tag": "p",
+            "text": "Refer a purchaser to Aacropolis Homes and become eligible to receive a referral fee."
+          },
+          {
+            "tag": "p",
+            "text": "Bring your friend in to an existing Aacropolis Show Home and make sure you register (both you and your friend)."
+          },
+          {
+            "tag": "p",
+            "text": "If your friend purchases, you will receive the referral bonus when they move into their new home."
+          },
+          {
+            "tag": "p",
+            "text": "Some conditions apply."
+          }
+        ],
+        "text": "The referral of your friends & family is the greatest compliment you could give us! Refer a Friend to Aacropolis Homes & Receive $2,000 ... Existing Aacropolis Home Owners Receive $3,000! Do you know someone in the market for a new home? Refer a purchaser to Aacropolis Homes and become eligible to receive a referral fee. Bring your friend in to an existing Aacropolis Show Home and make sure you register (both you and your friend). If your friend purchases, you will receive the referral bonus when they move into their new home. Some conditions apply."
+      },
+      {
+        "id": "comp-jo4w3dnb",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "REGISTER HERE TO RECEIVE A $2,000 DISCOUNT OFF YOUR NEW AACROPOLIS HOME"
+          }
+        ],
+        "text": "REGISTER HERE TO RECEIVE A $2,000 DISCOUNT OFF YOUR NEW AACROPOLIS HOME"
+      },
+      {
+        "id": "comp-jo4wbebj",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Tell us what you're interested in!"
+          }
+        ],
+        "text": "Tell us what you're interested in!"
+      },
+      {
+        "id": "comp-jo4w8lj9",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Thanks for submitting!We'll be in touch soon.&nbsp;"
+          }
+        ],
+        "text": "Thanks for submitting!We'll be in touch soon.&nbsp;"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_95b62b99fd084cf08d0462e40a0f9b84~mv2_d_2100_1603_s_2.webp",
+        "alt": "Custom Home"
+      }
+    ],
+    "links": []
+  },
+  "my-subscriptions": {
+    "title": "Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "about-1": {
+    "title": "Meet the team | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-mutdli2w1",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Our Story"
+          }
+        ],
+        "text": "Our Story"
+      },
+      {
+        "id": "comp-mutdli2x1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Better living starts with us"
+          }
+        ],
+        "text": "Better living starts with us"
+      },
+      {
+        "id": "comp-mutdli2y",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "At Aacropolis Homes, we have spent over thirty years working closely with our clients to bring their unique visions to life. Our commitment to quality craftsmanship and thoughtful design ensures that each home reflects both style and comfort. Whether we're building in vibrant new communities or infill homes in established neighbourhoods, we take pride in delivering value and creating lasting relationships."
+          }
+        ],
+        "text": "At Aacropolis Homes, we have spent over thirty years working closely with our clients to bring their unique visions to life. Our commitment to quality craftsmanship and thoughtful design ensures that each home reflects both style and comfort. Whether we're building in vibrant new communities or infill homes in established neighbourhoods, we take pride in delivering value and creating lasting relationships."
+      },
+      {
+        "id": "comp-mutdli372",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Meet The Team"
+          }
+        ],
+        "text": "Meet The Team"
+      },
+      {
+        "id": "comp-muwzuchh",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Casey Skarkey"
+          }
+        ],
+        "text": "Casey Skarkey"
+      },
+      {
+        "id": "comp-muwzwat5",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Area Sales Managaer"
+          }
+        ],
+        "text": "Area Sales Managaer"
+      },
+      {
+        "id": "comp-muwzo4p8",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "With a background in stakeholder coordination and project management, Casey brings clarity, foresight and close attention to detail to the homebuilding process. She joined Aacropolis Homes in June 2025, drawn to the opportunity to work one-on-one with families and translate the way they live, what they value and what they envision for the future into a home designed around them. Casey is passionate about creating clarity and confidence throughout the building journey. She believes the best outcomes begin with meaningful conversations, transparent communication and careful documentation. By keeping each family’s priorities visible throughout the process, she helps ensure the finished home remains connected to the reasons they chose to build it."
+          },
+          {
+            "tag": "p",
+            "text": "Fun fact: Casey has found more than 100 four-leaf clovers throughout her lifetime. She has always had an eye for noticing the special details others might walk past."
+          }
+        ],
+        "text": "With a background in stakeholder coordination and project management, Casey brings clarity, foresight and close attention to detail to the homebuilding process. She joined Aacropolis Homes in June 2025, drawn to the opportunity to work one-on-one with families and translate the way they live, what they value and what they envision for the future into a home designed around them. Casey is passionate about creating clarity and confidence throughout the building journey. She believes the best outcomes begin with meaningful conversations, transparent communication and careful documentation. By keeping each family’s priorities visible throughout the process, she helps ensure the finished home remains connected to the reasons they chose to build it. Fun fact: Casey has found more than 100 four-leaf clovers throughout her lifetime. She has always had an eye for noticing the special details others might walk past."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_34f75c40e0b6490f987cce1522dba47a~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/11062b_9f51f932321d4d8ebc7e20b6dee5c0c9~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": []
+  },
+  "post__copy-of-follow-along-our-dream-home-build-infill-edition-journal-entry-5-the-interior-selections": {
+    "title": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #5) The Interior Selections Process",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_5f0199d01bb14bcf99fbb95744610cd9~mv2.webp",
+        "alt": "Aacropolis custom home"
+      },
+      {
+        "src": "assets/images/4c621c_69d47dfef0dd4e528eadddcb0778451d~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "#5",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/5"
+      },
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal Entry #5: The Interior Selections Process"
+      },
+      {
+        "tag": "p",
+        "text": "It’s “go time” on your home! As we gear and start construction, preparing the scheduling and site management we will have you begin the process of choosing your interior finishes. As a custom home builder, we are aligned with the best suppliers in Edmonton who can provide you with all the finest"
+      },
+      {
+        "tag": "p",
+        "text": "finishings for your home. As part of our process, we include ample time with our interior designer to help you through the process of tying all your ideas together and creating your personal haven!"
+      },
+      {
+        "tag": "p",
+        "text": "As we’ve been going through the process so far, we’ve been encouraging you to keep any inspiration photos you’ve seen along the way through Pinterest, Houzz or magazines and google searches. We will start by having you select all your kitchen and bar appliances. We do this first so that the custom cabinetry is built around the sizes and style of appliances you want. You will meet with our custom cabinet supplier to design your kitchens, bathrooms and bar areas. They also can work with you on any other custom built in cabinetry throughout your home. Choosing door styles, hardware, colours and wood species as well as customized layouts. They will do detailed drawings for you to fully understand"
+      },
+      {
+        "tag": "p",
+        "text": "what you are choosing."
+      },
+      {
+        "tag": "p",
+        "text": "Other selections to choose early in the process include your fireplace (or fireplaces) and all the plumbing fixtures for your home as it’s important to have the specs and design when beginning all the rough-in’s."
+      },
+      {
+        "tag": "p",
+        "text": "Our interior designer will help you pull together all your inspiration and ideas and guide you to capturing the look and feel of your spaces to make them feel like home! It can sound like an overwhelming process, but doing things in the step-by-step manner makes it much easier! Our process is designed to allow you to focus on each decision in a way that doesn’t feel pressured and corresponds to when we need the information to avoid any unnecessary delays in construction. The patient and professional guidance of our suppliers and interior designer will make you feel confident in all your selections."
+      },
+      {
+        "tag": "p",
+        "text": "As we frame your home, we have you meet with the Electrician to ensure that all your lighting is properly designed for each space. Additionally, outlet placements are a consideration that we don’t overlook. This ensures that you get the right lighting in each space and that you don’t need to reach for an extension cord because you forgot an outlet."
+      },
+      {
+        "tag": "p",
+        "text": "By the time we have your home drywalled most of your selections will be finalized including cabinetry, flooring, tile and paint colours. When our finishing carpenter is ready to start the millwork on your home, we’ll have you come to site and design any built-in shelving, additional fireplace details, benches and custom closet systems. This is the perfect time to think about these things as most of the big decisions have already been made and you can focus while in the home about how to make everything both beautiful and functional."
+      },
+      {
+        "tag": "p",
+        "text": "We know that you will be excited to see all the progress on your home, so we ensure you have plenty of opportunities with our team to visit your home and see things come together. That’s why working with a boutique, client focused builder like Aacropolis Homes makes all the difference. The care we provide throughout the construction process is why the majority of our business comes from referrals. We thrive on happy clients! Partnering with professionals and the best suppliers mean that you will have many options to customize your home and get the look you are after. Having our interior designer work with you throughout the process means that everything will look spectacular and you don’t need to"
+      },
+      {
+        "tag": "p",
+        "text": "second guess your decisions."
+      },
+      {
+        "tag": "p",
+        "text": "Our next journal entry will dive into the stages of construction as well as that most asked question... “when can we move in?”."
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Apr 22, 2024",
+    "cover": "assets/images/4c621c_5f0199d01bb14bcf99fbb95744610cd9~mv2.webp"
+  },
+  "about": {
+    "title": "About Aacropolis Homes | Edmonton Home Builder",
+    "blocks": [
+      {
+        "id": "comp-jl89ynfm",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "ABOUT AACROPOLIS HOMES"
+          }
+        ],
+        "text": "ABOUT AACROPOLIS HOMES"
+      },
+      {
+        "id": "comp-ilcc9xmv",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "For over three decades, Aacropolis Homes Ltd. has been dedicated to creating unique designs, achieving both impeccable style and superior craftsmanship for a discerning clientele."
+          },
+          {
+            "tag": "p",
+            "text": "Our blend of luxury, quality and value has served us, and our clients well. Beyond building in prestigious new communities we have experience building on acreages as well as infill homes in mature neighbourhoods."
+          },
+          {
+            "tag": "p",
+            "text": "Talk to us today regarding your dream build."
+          }
+        ],
+        "text": "For over three decades, Aacropolis Homes Ltd. has been dedicated to creating unique designs, achieving both impeccable style and superior craftsmanship for a discerning clientele. Our blend of luxury, quality and value has served us, and our clients well. Beyond building in prestigious new communities we have experience building on acreages as well as infill homes in mature neighbourhoods. Talk to us today regarding your dream build."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_8294cb3440174d7d9426fcde1f388235~mv2.webp",
+        "alt": "Great Room Custom Home"
+      }
+    ],
+    "links": []
+  },
+  "copy-of-home": {
+    "title": "Custom Home Builder | Aacropolis Homes | Edmonton | Aacropolishomes.com",
+    "blocks": [
+      {
+        "id": "comp-mipdz2ad",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Welcome Home"
+          }
+        ],
+        "text": "Welcome Home"
+      },
+      {
+        "id": "comp-mipdz2ae1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Allow us to take you for a tour"
+          }
+        ],
+        "text": "Allow us to take you for a tour"
+      },
+      {
+        "id": "comp-mipdz2ag",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "With 35 years of custom home building expertise, we specialize in infills, acreages, and new development areas. Our team ensures a trustworthy experience with high attention to detail and transparent communication. We are the trusted builder for custom homes in the Edmonton area."
+          }
+        ],
+        "text": "With 35 years of custom home building expertise, we specialize in infills, acreages, and new development areas. Our team ensures a trustworthy experience with high attention to detail and transparent communication. We are the trusted builder for custom homes in the Edmonton area."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_93a704d4ef9d459eb12d23a4e19ac5c8~mv2.webp",
+        "alt": "4557 Knight Wynd-1.jpg"
+      }
+    ],
+    "links": [
+      {
+        "text": "Visit our Showhome",
+        "href": "https://maps.app.goo.gl/BCbmzvdyDdHzUNMu6"
+      }
+    ]
+  },
+  "cart-page": {
+    "title": "Cart Page | Aacropolishomes",
+    "blocks": [],
+    "images": [],
+    "links": []
+  },
+  "popup-auiju": {
+    "title": "404 | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-iuqkrar1",
+        "paragraphs": [
+          {
+            "tag": "h4",
+            "text": "There’s Nothing Here..."
+          }
+        ],
+        "text": "There’s Nothing Here..."
+      },
+      {
+        "id": "comp-iuqksom1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "We can’t find the page you’re looking for. Check the URL, or head back home."
+          }
+        ],
+        "text": "We can’t find the page you’re looking for. Check the URL, or head back home."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/035244_516142e5fd21466aaf92b39e0883e66f~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "Go Home",
+        "href": "https://www.aacropolishomes.com"
+      }
+    ]
+  },
+  "blog__categories__your-community": {
+    "title": "Your Community",
+    "blocks": [
+      {
+        "id": "comp-muvtltwe",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Learn & Discover"
+          }
+        ],
+        "text": "Learn & Discover"
+      },
+      {
+        "id": "comp-muvv4m22",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Expert guides for every step of the journey"
+          }
+        ],
+        "text": "Expert guides for every step of the journey"
+      },
+      {
+        "id": "comp-muvtjlnm",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Explore expert advice for every project from vision to completion."
+          }
+        ],
+        "text": "Explore expert advice for every project from vision to completion."
+      },
+      {
+        "id": "comp-muvu46er",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Browse our blogs"
+          }
+        ],
+        "text": "Browse our blogs"
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/11062b_474ac7080f9e495ead3138f64c3c8e15~mv2.webp",
+        "alt": "City View"
+      }
+    ],
+    "links": []
+  },
+  "book-online": {
+    "title": "Book Online | Aacropolishomes",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/2403854036464d9aa4829d6be3f8ea77.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "Home",
+        "href": "https://www.aacropolishomes.com"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/booking-calendar/custom-home-consultation"
+      },
+      {
+        "text": "Custom Home Consultation",
+        "href": "https://www.aacropolishomes.com/booking-calendar/custom-home-consultation"
+      },
+      {
+        "text": "Book Now",
+        "href": "https://www.aacropolishomes.com/booking-calendar/custom-home-consultation"
+      }
+    ]
+  },
+  "general-7": {
+    "title": "Edmonton Communities | Aacropolishomes",
+    "blocks": [
+      {
+        "id": "comp-muvphyo82",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Where We've Built"
+          }
+        ],
+        "text": "Where We've Built"
+      },
+      {
+        "id": "comp-muvphyo9",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors."
+          }
+        ],
+        "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors."
+      },
+      {
+        "id": "comp-muvphyoh2",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Homes We've Built"
+          }
+        ],
+        "text": "Homes We've Built"
+      },
+      {
+        "id": "comp-mv73of1y",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "A blank page, a fresh community, and a home that's truly yours."
+          }
+        ],
+        "text": "A blank page, a fresh community, and a home that's truly yours."
+      },
+      {
+        "id": "comp-mv742xq1",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "New communities come with a lot of promise and a few rules. Architectural guidelines, set lot sizes and setbacks, and a neighbourhood still taking shape all influence the home you can build."
+          },
+          {
+            "tag": "p",
+            "text": "We help you read those details before you commit to a lot, so the design starts with what's possible rather than what's surprising. From there it's the part we love: a plan built around your family, finishes and lighting chosen with you, and a build schedule you can actually follow."
+          }
+        ],
+        "text": "New communities come with a lot of promise and a few rules. Architectural guidelines, set lot sizes and setbacks, and a neighbourhood still taking shape all influence the home you can build. We help you read those details before you commit to a lot, so the design starts with what's possible rather than what's surprising. From there it's the part we love: a plan built around your family, finishes and lighting chosen with you, and a build schedule you can actually follow."
+      },
+      {
+        "id": "comp-mv760j29",
+        "paragraphs": [
+          {
+            "tag": "h4",
+            "text": "The Summerside Residence"
+          }
+        ],
+        "text": "The Summerside Residence"
+      },
+      {
+        "id": "comp-mv76fy01",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "A young family wanted a calm, light-filled home they could grow into. We shaped the plan around their evenings first: a kitchen that opens to the yard and a quiet corner for everyone."
+          }
+        ],
+        "text": "A young family wanted a calm, light-filled home they could grow into. We shaped the plan around their evenings first: a kitchen that opens to the yard and a quiet corner for everyone."
+      },
+      {
+        "id": "comp-mv76h8ci",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Lot"
+          }
+        ],
+        "text": "Lot"
+      },
+      {
+        "id": "comp-mv76j8gs",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Size"
+          }
+        ],
+        "text": "Size"
+      },
+      {
+        "id": "comp-mv76jlcf",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Timeline"
+          }
+        ],
+        "text": "Timeline"
+      },
+      {
+        "id": "comp-mv7717u0",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "New Neighbourhoods"
+          }
+        ],
+        "text": "New Neighbourhoods"
+      },
+      {
+        "id": "comp-muvphyon2",
+        "paragraphs": [
+          {
+            "tag": "h2",
+            "text": "Section Title"
+          }
+        ],
+        "text": "Section Title"
+      },
+      {
+        "id": "comp-muvphyon4",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors."
+          }
+        ],
+        "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content and make sure to add any relevant details or information that you want to share with your visitors."
+      },
+      {
+        "id": "comp-muvphyou3",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "Testimonial"
+          }
+        ],
+        "text": "Testimonial"
+      },
+      {
+        "id": "comp-muvphyov",
+        "paragraphs": [
+          {
+            "tag": "p",
+            "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content."
+          }
+        ],
+        "text": "This is a Paragraph. Click on \"Edit Text\" or double click on the text box to start editing the content."
+      }
+    ],
+    "images": [
+      {
+        "src": "assets/images/4c621c_039fbc256f824ea298a3d1ed3101c85e~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "./#comp-muvphyot2"
+      },
+      {
+        "text": "",
+        "href": "./#comp-muvphyov2"
+      },
+      {
+        "text": "",
+        "href": "./#comp-muvphyox2"
+      }
+    ]
+  },
+  "https:____www.aacropolishomes.com": {
+    "title": "Custom Home Builder | Aacropolis Homes | Edmonton | Aacropolishomes.com",
+    "blocks": [
+      {
+        "id": "comp-kxj9rmq0",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "EDMONTON HOME BUILDER"
+          }
+        ],
+        "text": "EDMONTON HOME BUILDER"
+      },
+      {
+        "id": "comp-jl8a4urp",
+        "paragraphs": [
+          {
+            "tag": "h1",
+            "text": "Better living starts with us."
+          }
+        ],
+        "text": "Better living starts with us."
+      }
+    ],
+    "images": [],
+    "links": [
+      {
+        "text": "Visit Show Home",
+        "href": "https://www.aacropolishomes.com/show-homes"
+      }
+    ]
+  },
+  "post__follow-along-our-dream-home-build-infill-edition-journal-entry-4-permitting-site-preparation": {
+    "title": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #4) Permitting & Site Preparation",
+    "blocks": [],
+    "images": [
+      {
+        "src": "assets/images/4c621c_c4c662e243594c69bfaeb65998678542~mv2.webp",
+        "alt": "Aacropolis custom home"
+      }
+    ],
+    "links": [
+      {
+        "text": "#4",
+        "href": "https://www.aacropolishomes.com/blog/hashtags/4"
+      },
+      {
+        "text": "See All",
+        "href": "https://www.aacropolishomes.com/blog"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "Why Choose Aacropolis Homes For Your Acreage Build?",
+        "href": "https://www.aacropolishomes.com/post/why-choose-aacropolis-homes-for-your-acreage-build"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "Rear Lane Attached Homes in Keswick on the River",
+        "href": "https://www.aacropolishomes.com/post/rear-lane-attached-homes-in-keswick-on-the-river"
+      },
+      {
+        "text": "",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      },
+      {
+        "text": "Follow Along Our Dream Home Build: Infill Edition (Journal Entry #7) Possession and Warranty",
+        "href": "https://www.aacropolishomes.com/post/follow-along-our-dream-home-build-infill-edition-journal-entry-7-possession-and-warranty"
+      }
+    ],
+    "body": [
+      {
+        "tag": "p",
+        "text": "Journal Entry #4: Permitting and Site Preparation"
+      },
+      {
+        "tag": "p",
+        "text": "Now that we have your blueprints with the floorplan and exterior finalized we are ready to prepare for permitting. In the case of an infill there are 3 key permits we need to apply for before getting started on the construction of your home."
+      },
+      {
+        "tag": "p",
+        "text": "A Demolition Permit is needed if there is a house on the property that needs to be removed. Whether you are repurposing the house by having a company move the home for someone else to utilize and enjoy, or if the home is a complete demolition, we need the City’s authorization in the form of an approved Demolition Permit. A Demolition Permit requires confirmation that the utilities have been shut off. Asbestos testing needs to be completed in the form of a second party Asbestos report. If the report shows asbestos in the home materials, a professional company will need to come and abate the asbestos. The City will need a certificate showing that the asbestos has been removed, before issuing a Demolition Permit."
+      },
+      {
+        "tag": "p",
+        "text": "A Development Permit is required showing the type of home, size, height and coverage of the lot. The Development officer will determine if all the zoning regulations are being adhered to. If variances are needed then the City will engage in that process. We will guide you throughout and ensure that if there is a need for variances that we have both community support and that there is a likelihood for approvals."
+      },
+      {
+        "tag": "p",
+        "text": "Once the Development approval process is completed your home file will move to the Building Permit stage. This permit ensures that the home complies with all applicable Building Codes. Blueprints, Engineered Plans and energy modelling will all be considered for approval. A qualified builder will ensure that all of our bases are covered making the building permit approval a quick and painless task."
+      },
+      {
+        "tag": "p",
+        "text": "In most cases we will apply for all 3 of these permits at once. A builders reputation goes a long way with the City approvals entities. As a builder with a good neighbour policy, complete applications and professional presentation, the City appreciates Aacropolis Homes as a partner in the infill process. The timeline for the permit process can largely depend on whether or not there are any variances we are applying for as well as the current workload of the City Development offices, but rest assured our organized approach will mean that we don’t waste anytime in the process."
+      },
+      {
+        "tag": "p",
+        "text": "While we are going through the approval process we can be utilizing the permitting time to have you start the fun process of your interior selections! In our next Blog post we will explore the selections process and how we guide you through the interior design of your home!"
+      },
+      {
+        "tag": "p",
+        "text": "If you're looking for more information on the process of building an infill home, give Casey a call! 825.510.2298"
+      }
+    ],
+    "date": "Mar 15, 2024",
+    "cover": "assets/images/4c621c_c4c662e243594c69bfaeb65998678542~mv2.webp"
+  },
+  "locations": [
+    {
+      "title": "Keswick On the River",
+      "address": "4555 Knight Wynd SW, Edmonton, AB T6W 4B7, Canada",
+      "latitude": 53.4190842,
+      "longitude": -113.6475066
+    },
+    {
+      "title": "Riverside",
+      "address": "18 Red Crst Wy, St. Albert, AB T8N 7Y7, Canada",
+      "latitude": 53.6334017,
+      "longitude": -113.6593966
+    },
+    {
+      "title": "Downtown",
+      "address": "Jasper Ave, Edmonton, AB, Canada",
+      "latitude": 53.5409708,
+      "longitude": -113.4974436
+    },
+    {
+      "title": "Blackburne",
+      "address": "1015 Blackburn Close SW, Edmonton, AB T6W 1C3, Canada",
+      "latitude": 53.4299791,
+      "longitude": -113.4961803
+    },
+    {
+      "title": "Whitemud Hills",
+      "address": "117 Cormack Crescent NW, Edmonton, AB T6R 2E5, Canada",
+      "latitude": 53.4626507,
+      "longitude": -113.5695878
+    },
+    {
+      "title": "Twin Brooks",
+      "address": "1110 113 St NW, Edmonton, AB T6J 7J4, Canada",
+      "latitude": 53.4425527,
+      "longitude": -113.5256767
+    },
+    {
+      "title": "Eagle Ridge",
+      "address": "Eagle Rdg Pl NW, Edmonton, AB T6R 2M8, Canada",
+      "latitude": 53.4753767,
+      "longitude": -113.6012257
+    },
+    {
+      "title": "Riverside",
+      "address": "8630 Rowland Rd NW, Edmonton, AB T5J 2T6, Canada",
+      "latitude": 53.54959359999999,
+      "longitude": -113.4645156
+    },
+    {
+      "title": "Carlton ",
+      "address": "Carlton, Edmonton, AB, Canada",
+      "latitude": 53.6213785,
+      "longitude": -113.5608147
+    },
+    {
+      "title": "Whitemud Oaks",
+      "address": "1001 Carter Crest Rd NW, Edmonton, AB T6R 2K2, Canada",
+      "latitude": 53.46570000000001,
+      "longitude": -113.572772
+    },
+    {
+      "title": "College Woods",
+      "address": "8944 183 Ave NW, Edmonton, AB T5X 6G5, Canada",
+      "latitude": 53.645523,
+      "longitude": -113.4780298
+    },
+    {
+      "title": "Oxford",
+      "address": "Oxford, Edmonton, AB, Canada",
+      "latitude": 53.6238532,
+      "longitude": -113.5474186
+    },
+    {
+      "title": "Blackmud Creek ",
+      "address": "Blackmud Creek, Edmonton, AB, Canada",
+      "latitude": 53.4203392,
+      "longitude": -113.5120164
+    },
+    {
+      "title": "Citadel of Margrath",
+      "address": "Edmonton, AB T6R, Canada",
+      "latitude": 53.4602696,
+      "longitude": -113.5887627
+    },
+    {
+      "title": "MacEwan",
+      "address": "10700 104 Ave NW, Edmonton, AB T5J 4S2, Canada",
+      "latitude": 53.5470753,
+      "longitude": -113.5075585
+    },
+    {
+      "title": "Quarry Ridge",
+      "address": "Quarry Ridge, AB, Canada",
+      "latitude": 53.6250636,
+      "longitude": -113.339599
+    },
+    {
+      "title": "Chambery",
+      "address": "Chambery, Edmonton, AB, Canada",
+      "latitude": 53.6398019,
+      "longitude": -113.5138194
+    },
+    {
+      "title": "Summerside",
+      "address": "Summerside, Edmonton, AB, Canada",
+      "latitude": 53.41763719999999,
+      "longitude": -113.4599865
+    },
+    {
+      "title": "MacTaggart",
+      "address": "Mactaggart, Edmonton, AB, Canada",
+      "latitude": 53.44117379999999,
+      "longitude": -113.5562906
+    },
+    {
+      "title": "Wolf Willow Ridge",
+      "address": "Wolf Willow Cres, Edmonton, AB, Canada",
+      "latitude": 53.5026242,
+      "longitude": -113.5960161
+    },
+    {
+      "title": "Cameron Heights",
+      "address": "Cameron Heights, Edmonton, AB, Canada",
+      "latitude": 53.47292539999999,
+      "longitude": -113.6351845
+    },
+    {
+      "title": "Riverstead",
+      "address": "310 Freeman Bridge Rd, Marietta, SC 29661, USA",
+      "latitude": 35.0007338,
+      "longitude": -82.5437154
+    },
+    {
+      "title": "Grovenor",
+      "address": "Grovenor, Edmonton, AB, Canada",
+      "latitude": 53.5463117,
+      "longitude": -113.5726177
+    },
+    {
+      "title": "Forest Heights",
+      "address": "Forest Heights, Edmonton, AB, Canada",
+      "latitude": 53.54935680000001,
+      "longitude": -113.4492934
+    },
+    {
+      "title": "Bonnie Doon",
+      "address": "Bonnie Doon, Edmonton, AB, Canada",
+      "latitude": 53.5234927,
+      "longitude": -113.4591058
+    },
+    {
+      "title": "Windsor Park",
+      "address": "Windsor Park, Edmonton, AB, Canada",
+      "latitude": 53.52296219999999,
+      "longitude": -113.5383054
+    },
+    {
+      "title": "Capilano",
+      "address": "Capilano, Edmonton, AB, Canada",
+      "latitude": 53.55756770000001,
+      "longitude": -113.4186717
+    },
+    {
+      "title": "Parkview",
+      "address": "Parkview, Edmonton, AB, Canada",
+      "latitude": 53.5248684,
+      "longitude": -113.5656835
+    },
+    {
+      "title": "Grandview",
+      "address": "6215 124 St NW, Edmonton, AB T6H 3V1, Canada",
+      "latitude": 53.4987414,
+      "longitude": -113.5428191
+    },
+    {
+      "title": "Belgravia",
+      "address": "Belgravia, Edmonton, AB, Canada",
+      "latitude": 53.5103618,
+      "longitude": -113.5346939
+    },
+    {
+      "title": "Knottingham",
+      "address": "688 Wye Rd, Sherwood Park, AB T8A 5X6, Canada",
+      "latitude": 53.512714,
+      "longitude": -113.2718675
+    },
+    {
+      "title": "New Port",
+      "address": "5910 99 St NW, Edmonton, AB T6E 3N9, Canada",
+      "latitude": 53.4952419,
+      "longitude": -113.4867074
+    },
+    {
+      "title": "Fountain Creek Estates",
+      "address": "Fountain Creek Estates, AB T8B 1C9, Canada",
+      "latitude": 53.498048,
+      "longitude": -113.327319
+    },
+    {
+      "title": "Clarkdale Meadows",
+      "address": "Clarkdale Dr, Sherwood Park, AB, Canada",
+      "latitude": 53.5514485,
+      "longitude": -113.2525936
+    },
+    {
+      "title": "Coloniale Estates",
+      "address": "37 Coloniale Way, Beaumont, AB T4X 1M7, Canada",
+      "latitude": 53.3623225,
+      "longitude": -113.4086163
+    },
+    {
+      "title": "Place Chaleureuse",
+      "address": "5003 30 Ave, Beaumont, AB T4X 1T9, Canada",
+      "latitude": 53.3400885,
+      "longitude": -113.4159736
+    },
+    {
+      "title": "Lake Side Estates",
+      "address": "Lakeside Estates, Leduc, AB, Canada",
+      "latitude": 53.2600519,
+      "longitude": -113.5826798
+    },
+    {
+      "title": "RH Estates",
+      "address": "Kingswood, St. Albert, AB, Canada",
+      "latitude": 53.6570056,
+      "longitude": -113.5970251
+    },
+    {
+      "title": "Kingswood",
+      "address": "Kingswood, St. Albert, AB, Canada",
+      "latitude": 53.6570056,
+      "longitude": -113.5970251
+    },
+    {
+      "title": "Riverpointe",
+      "address": "Riverpointe Dr, Fort Saskatchewan, AB, Canada",
+      "latitude": 53.7025368,
+      "longitude": -113.2319876
+    },
+    {
+      "title": "Drayton Valley",
+      "address": "Drayton Valley, AB, Canada",
+      "latitude": 53.2214945,
+      "longitude": -114.976746
+    },
+    {
+      "title": "Mannville",
+      "address": "Mannville, AB, Canada",
+      "latitude": 53.3402273,
+      "longitude": -111.1751771
+    },
+    {
+      "title": "Red Deer ",
+      "address": "Red Deer, AB, Canada",
+      "latitude": 52.2690328,
+      "longitude": -113.8114955
+    },
+    {
+      "title": "Wabamun Lake",
+      "address": "Wabamun Lake, Parkland County, AB, Canada",
+      "latitude": 53.5465965,
+      "longitude": -114.5554829
+    },
+    {
+      "title": "Legal",
+      "address": "Legal, AB, Canada",
+      "latitude": 53.9489734,
+      "longitude": -113.5952301
+    },
+    {
+      "title": "Sturgeon County",
+      "address": "Sturgeon County, AB, Canada",
+      "latitude": 53.81567,
+      "longitude": -113.562732
+    },
+    {
+      "title": "Strathcona County",
+      "address": "Strathcona County, AB, Canada",
+      "latitude": 53.53267760000001,
+      "longitude": -113.1553199
+    },
+    {
+      "title": "Parkland County",
+      "address": "Parkland County, AB, Canada",
+      "latitude": 53.4754873,
+      "longitude": -114.0863102
+    },
+    {
+      "title": "Leduc County",
+      "address": "Leduc County, AB, Canada",
+      "latitude": 53.2639063,
+      "longitude": -113.5394679
+    }
+  ],
+  "logo": "assets/images/4c621c_10d859335ec3406797f0b1c7ee0d76c2~mv2.png",
+  "hero": "assets/images/4c621c_7049814b92dc48b4adfbae1839bc9103~mv2.webp",
+  "video": "assets/video/keswick.mp4",
+  "videoPoster": "assets/images/4c621c_bcc11aa6e8d24701bb91fbeac221d759~mv2.webp",
+  "pdfs": {
+    "https://www.aacropolishomes.com/_files/ugd/d4109a_275f2b98ddb243f2875863abed8d33b0.pdf": "assets/files/d4109a_275f2b98ddb243f2875863abed8d33b0.pdf",
+    "https://www.aacropolishomes.com/_files/ugd/4c621c_d7940dc9044a40e88a5296f48dae3c39.pdf": "assets/files/4c621c_d7940dc9044a40e88a5296f48dae3c39.pdf",
+    "https://www.aacropolishomes.com/_files/ugd/4c621c_299af459fbf4429e85466a68029e5886.pdf": "assets/files/4c621c_299af459fbf4429e85466a68029e5886.pdf",
+    "https://www.aacropolishomes.com/_files/ugd/4c621c_78bf6f4f26e04b6c91513ffe603d0815.pdf": "assets/files/4c621c_78bf6f4f26e04b6c91513ffe603d0815.pdf"
+  }
+}
