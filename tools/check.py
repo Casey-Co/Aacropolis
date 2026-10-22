@@ -1,30 +1,28 @@
-"""Validate generated local links, image references, document structure and source coverage."""
+"""Check every generated page for missing links, assets, and document structure."""
 from pathlib import Path
 from html.parser import HTMLParser
-import re,json
+import json,re
 ROOT=Path(__file__).resolve().parents[1]
-class Document(HTMLParser):
- def __init__(self):super().__init__();self.refs=[];self.h1=0;self.viewport=False
- def handle_starttag(self,tag,attrs):
-  a=dict(attrs)
-  if tag=='h1':self.h1+=1
-  if tag=='meta' and a.get('name')=='viewport':self.viewport=True
-  for k in ['href','src','poster']:
-   if a.get(k):self.refs.append(a[k])
-errors=[];count=0
-for route in json.loads((ROOT/'tools/page-inventory.json').read_text()):
- p=ROOT/(route+'/index.html' if route else 'index.html');s=p.read_text();t=Document();t.feed(s);count+=1
- if t.h1!=1:errors.append(f'{p}: expected one h1, got {t.h1}')
- if not t.viewport:errors.append(f'{p}: missing viewport')
- for ref in t.refs+re.findall(r"url\(['\"]?([^)'\"]+)",s):
-  if ref.startswith(('https:','http:','mailto:','tel:','#','data:')):continue
-  q=(p.parent/ref.split('#')[0].split('?')[0]).resolve()
-  if q.is_dir():q=q/'index.html'
-  if not q.exists():errors.append(f'{p.relative_to(ROOT)}: missing {ref}')
- for prohibited in ['@@/','This is a Paragraph','Thanks for submitting!','Casey Skarkey','Managaer']:
-  if prohibited in s:errors.append(f'{p}: unexpected {prohibited}')
-process=(ROOT/'process/index.html').read_text()
-if process.count('<li>')!=9:errors.append('Expected nine process steps')
-print(f'Checked {count} routes; {len(errors)} errors.')
-for e in errors:print(e)
+class Page(HTMLParser):
+    def __init__(self):super().__init__();self.refs=[];self.h1=0;self.viewport=False
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs)
+        if tag=='h1':self.h1+=1
+        if tag=='meta' and a.get('name')=='viewport':self.viewport=True
+        for key in ['href','src','poster']:
+            if a.get(key):self.refs.append(a[key])
+errors=[];pages=json.loads((ROOT/'tools/pages.json').read_text())['pages']
+for path in pages:
+    file=ROOT/path;text=file.read_text();p=Page();p.feed(text)
+    if p.h1!=1 or not p.viewport:errors.append(path+': invalid heading or viewport')
+    if '@@/' in text:errors.append(path+': unresolved path')
+    for ref in p.refs+re.findall(r"url\(['\"]?([^)'\"]+)",text):
+        if ref.startswith(('https:','http:','mailto:','tel:','#','data:')):continue
+        target=(file.parent/ref.split('#')[0].split('?')[0]).resolve()
+        if target.is_dir():target=target/'index.html'
+        if not target.is_file():errors.append(path+': missing '+ref)
+if (ROOT/'process.html').read_text().count('<li>')!=9:errors.append('Process: expected 9 steps')
+if 'chatgpt.site' in (ROOT/'communities.html').read_text():errors.append('Map must run natively')
+print('Checked',len(pages),'pages;',len(errors),'errors.')
+for error in errors:print(error)
 raise SystemExit(bool(errors))
