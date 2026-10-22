@@ -35,3 +35,7 @@ The original referral promotion and blog contain historical dollar amounts, date
 Booking calendars, intake forms, member accounts, registration and checkout remain on the original website. No private records, booking logic, mailing subscriptions or form submissions were migrated. Links clearly take visitors to that service.
 
 The Google Maps embed remains an external dependency. The community selector retains all locations published in the original map. It starts centered on Edmonton and can display a selected location. Contact, directions and social links remain functional external links.
+
+## Integrated build map
+
+The original ChatGPT Sites build map has been brought directly into the Communities page. Its code, location data, emblem, and Leaflet library are stored locally in `assets/build-map/`. It retains the category filters, clustering, marker popups, and reset control, with typography and spacing matched to the main site. This component does not depend on the original ChatGPT Sites publication; its map tiles are supplied by Esri. The existing Google location selector is retained above it.

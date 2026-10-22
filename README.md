@@ -12,6 +12,7 @@ The site runs directly from the repository root. It uses standard HTML, CSS and 
 - Shared HTML templates and page assembly: `tools/build.py`.
 - After changing templates/content, run `python3 tools/build.py`, then `python3 tools/check.py` and commit the regenerated HTML.
 - Photos and PDF brochures are stored under `assets/`.
+- The native interactive build map is under `assets/build-map/`; edit its locations in `locations.json`. It is part of the Communities page and does not embed a separate website.
 - Each page also has an `index.html` so nested routes work on GitHub Pages. Previous `.html` links redirect to the corresponding page.
 
 ## Included
